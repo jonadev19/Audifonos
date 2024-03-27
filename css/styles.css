@@ -392,6 +392,7 @@ img {
 }
 footer{
   padding: 3rem;
+  padding-top: 5rem;
   color: var(--primario);
   font-size: 2rem;
   font-family: var(--fuenteSecundaria);
